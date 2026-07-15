@@ -1,3 +1,3 @@
 # jashandeep
 this is my first git   repository
-author - jashandeep
+author - jashandeep(singh)
